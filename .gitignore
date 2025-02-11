@@ -151,3 +151,8 @@ data/
 # Rollout videos and wandb logs
 rollouts/
 wandb/
+openvla_env/
+datasets/
+model/
+adapter-tmp/
+runs/
